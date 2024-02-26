@@ -15,6 +15,9 @@
 - [Responsive Design](https://internetingishard.netlify.app/html-and-css/responsive-design/)
 - [Responsive Images](https://internetingishard.netlify.app/html-and-css/responsive-images/)
 - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- Examples from w3schools
+  - [CSS Flex Responsive](https://www.w3schools.com/css/css3_flexbox_responsive.asp)
+  - [CSS Media Queries](https://www.w3schools.com/css/css3_mediaqueries.asp)
 - Activities:
   - [Activity 1](./activity1.md)
   - [Activity 2](./activity2.md)
