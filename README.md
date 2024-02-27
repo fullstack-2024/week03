@@ -13,7 +13,6 @@
 - Separation of concerns: HTML/CSS/JS
 - [Flexbox](https://internetingishard.netlify.app/html-and-css/flexbox/)
 - [Responsive Design](https://internetingishard.netlify.app/html-and-css/responsive-design/)
-- [Responsive Images](https://internetingishard.netlify.app/html-and-css/responsive-images/)
 - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - Examples from w3schools
   - [CSS Flex Responsive](https://www.w3schools.com/css/css3_flexbox_responsive.asp)
@@ -22,6 +21,7 @@
   - [Activity 1](./activity1.md)
   - [Activity 2](./activity2.md)
   - [Activity 3](./activity3.md)
+<!-- - [Responsive Images](https://internetingishard.netlify.app/html-and-css/responsive-images/) -->
 
 ### Thursday Morning
 
