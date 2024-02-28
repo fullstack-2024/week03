@@ -7,6 +7,7 @@
 - Group Leader & Submission to OMA
 - **Week 5: Monday 11/3 NOT Thursday 14/3**
 - [Homework for week 4](./Homework.md)
+- Bonus to groups: 1, 2, 3, 4, 5, 6, 7
 
 ### Tuesday Morning
 
@@ -25,15 +26,21 @@
 
 ### Thursday Morning
 
-<!-- guest addition Linux -->
-- [Activity 4](./activity4.md)
-- [Activity 5](./activity5.md)
+- [VirtualBox Guest Additions](./Guest-Additions.mp4) 
+- Activities
+  - [Activity 4](./activity4.md)
+  - [Activity 5](./activity5.md)
 
 ### Thursday Afternoon
 
+- [Logical operators](https://javascript.info/logical-operators)
+- [Conditional branching: if, '?'](https://javascript.info/ifelse)
 - [Functions](https://javascript.info/function-basics)
-
-
+- [Objects](https://javascript.info/object)
+- [Arrays](https://javascript.info/array)
+- Activities
+  - [Activity 6](./activity6.md)
+  - [Activity 7](./activity7.md)
 
 
 <!-- Links -->
