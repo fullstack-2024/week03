@@ -26,10 +26,12 @@
 
 ### Thursday Morning
 
-- [VirtualBox Guest Additions](./Guest-Additions.mp4) 
+- [VirtualBox Guest Additions](./Guest-Additions.mp4)
 - Activities
   - [Activity 4](./activity4.md)
   - [Activity 5](./activity5.md)
+
+<video src='./Guest-Additions.mp4' width=180 >
 
 ### Thursday Afternoon
 
