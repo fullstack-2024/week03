@@ -232,28 +232,7 @@ Practice creating objects to represent different things. Some ideas include:
 
 #### Modifying Arrays
 
-1. Using `push` and `unshift`, make this array contain the
-   numbers from zero through seven:
-
-   ```js
-   const arr = [2, 3, 4];
-   // your code here
-   arr; // => [0, 1, 2, 3, 4, 5, 6, 7]
-   ```
-
-2. What is *returned* by `push`? Before throwing this into the console, form a
-   hypothesis about what you think the return value will be:
-
-   ```js
-   const arr = [5, 7, 9];
-   arr.push(6); // => ???
-   ```
-
-   Were you correct? What is the returned by `push`? Does `unshift` work in the
-   same way?
-
-3. We can use the *assignment operator* (`=`) to replace elements in arrays with
-   other ones like so:
+We can use the *assignment operator* (`=`) to replace elements in arrays with other ones like so:
 
    ```js
    const animals = ['dog', 'elephant', 'zebra']
