@@ -37,7 +37,7 @@ Fix the syntax & style issues with the three objects below:
     represents a computer:
 
     ```js
-    var computer = {
+    const computer = {
       brand: "Apple",
       year: 2014,
       model: "MacBook Pro",
@@ -87,7 +87,7 @@ Fix the syntax & style issues with the three objects below:
 1. Create a new empty object in your console called `obj` like this:
 
    ```js
-   var obj = {};
+   const obj = {};
    ```
 
 2. Add a new key/value pair to the object `obj` by *assigning* a new value to a
@@ -110,8 +110,8 @@ Fix the syntax & style issues with the three objects below:
 1.  Fix the attempts to access values in the `person` object:
 
     ```js
-    var key = "name";
-    var person = {
+    const key = "name";
+    const person = {
         name: "Alyssa P. Hacker",
         age: 26,
         hometown: "somewhere"
@@ -126,7 +126,7 @@ Fix the syntax & style issues with the three objects below:
    yourself above, for example:
 
    ```js
-   var alyssa = {
+   const alyssa = {
      name: {
        first: "Alyssa",
        middle: "P.",
@@ -158,7 +158,7 @@ Fix the syntax & style issues with the three objects below:
    objects, where each object represents a *person*:
 
    ```js
-   var people = [
+   const people = [
      {name: {first: "Alyssa", middle: "P.", last: "Hacker"}, age: 26},
      {name: {first: "Ben", last: "Bitdiddle"}, age: 34},
      {name: {first: "Eva", middle: "Lu", last: "Ator"}, age: 40},
@@ -182,7 +182,7 @@ Fix the syntax & style issues with the three objects below:
 1. The following object has a number of key/value pairs that need to be removed:
 
    ```js
-   var dirtyObject = {
+   const dirtyObject = {
      _fht: 192492,
      name: "Alyssa P. Hacker",
      age: 26,
@@ -271,7 +271,7 @@ Fix the syntax & style issues with the three objects below:
    numbers from zero through seven:
 
    ```js
-   var arr = [2, 3, 4];
+   const arr = [2, 3, 4];
    // your code here
    arr; // => [0, 1, 2, 3, 4, 5, 6, 7]
    ```
@@ -280,7 +280,7 @@ Fix the syntax & style issues with the three objects below:
    hypothesis about what you think the return value will be:
 
    ```js
-   var arr = [5, 7, 9];
+   const arr = [5, 7, 9];
    arr.push(6); // => ???
    ```
 
@@ -291,7 +291,7 @@ Fix the syntax & style issues with the three objects below:
    other ones like so:
 
    ```js
-   var animals = ['dog', 'elephant', 'zebra']
+   const animals = ['dog', 'elephant', 'zebra']
    // let's replace 'dog' with 'hippo'
    animals[0] = 'hippo';
    animals; // => ['hippo', 'elephant', 'zebra']
@@ -301,12 +301,12 @@ Fix the syntax & style issues with the three objects below:
 
    ```js
    // 1. Change all odd numbers to be those numbers multiplied by two:
-   var numbers = [4, 9, 7, 2, 1, 8];
+   const numbers = [4, 9, 7, 2, 1, 8];
    // TODO: your code here
    numbers; // => [4, 18, 14, 2, 2, 8]
 
    // 2. Fix the typos by replacing each element with a correctly spelled version
-   var places = ['snfranisco', 'oacklannd', 'santacrus']
+   const places = ['snfranisco', 'oacklannd', 'santacrus']
    // TODO: your code here
    places; // => ['san francisco', 'oakland', 'santa cruz']
    ```
