@@ -192,8 +192,6 @@ Practice creating objects to represent different things. Some ideas include:
 
 ## Part 2/2: Arrays
 
-*Note: Before getting started on these exercises, please be certain that you've read through the root [README.md](../README.md) file in this repository.*
-
 #### Creating Arrays
 
 1. Using the array: `["cat", "fox", "dog", "monkey"]`, what is the index of:
