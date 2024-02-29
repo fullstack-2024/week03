@@ -1,6 +1,6 @@
 # Activity 4
 
-## Part 1
+## Part 1/3: VirtualBox Guest Additions
 
 To install VirtualBox Guest Additions on Lubuntu, follow these steps:
 
@@ -40,8 +40,7 @@ To install VirtualBox Guest Additions on Lubuntu, follow these steps:
 
 Following these steps will install VirtualBox Guest Additions on your Lubuntu virtual machine, providing enhanced features and better integration with the host OS.
 
-## Part 2
-
+## Part 2/3: Recap
 
 Use Linux commands to create the following directory hierarchy:
 
@@ -95,5 +94,67 @@ This set of commands will create the specified directory structure with empty fi
 
 </details>
 
+## Part 3/3: `nano` text editor
 
-- Ref: https://linuxiac.com/ubuntu-with-virtualbox/
+Below are the instructions for using the `nano` text editor to write, append, and save text:
+
+#### 1. Writing Text:
+
+1. Open the terminal on your Linux system.
+
+2. Navigate to the directory where you want to create or edit a file.
+
+3. Type the following command to open a file named `example.txt` using `nano`:
+   ```bash
+   nano example.txt
+   ```
+
+4. You will see the `nano` text editor interface. Start typing your text directly into the editor.
+
+5. Once you have finished writing your text, press `Ctrl` + `O` to save the changes.
+
+6. You will be prompted to confirm the file name. Press `Enter` to confirm.
+
+7. Press `Ctrl` + `X` to exit `nano`.
+
+#### 2. Appending Text:
+
+1. Open the terminal on your Linux system.
+
+2. Navigate to the directory where the file you want to append text to is located.
+
+3. Type the following command to open the file `example.txt` using `nano`:
+   ```bash
+   nano example.txt
+   ```
+
+4. You will see the `nano` text editor interface with the content of the file displayed.
+
+5. Move the cursor to the position where you want to append text.
+
+6. Start typing your additional text.
+
+7. Once you have finished appending text, press `Ctrl` + `O` to save the changes.
+
+8. Press `Enter` to confirm the file name.
+
+9. Press `Ctrl` + `X` to exit `nano`.
+
+#### 3. Miscellaneous:
+
+- **Navigation:** Use arrow keys to move the cursor around the text.
+- **Editing:** Use `Backspace` to delete characters and `Ctrl` + `K` to delete entire lines.
+- **Search:** Press `Ctrl` + `W` to search for text within the file.
+- **Help:** Press `Ctrl` + `G` to display the help menu within `nano`.
+
+#### Additional Notes:
+- If you are creating a new file, `nano` will prompt you to confirm the file name when saving.
+- Remember to use `Ctrl` + `O` to save changes and `Ctrl` + `X` to exit `nano`.
+- `nano` displays a footer with common commands at the bottom of the screen for reference.
+
+Follow these instructions to effectively use the `nano` text editor for writing, appending, and editing text files on your Linux system.
+
+
+## Ref
+
+- https://linuxiac.com/ubuntu-with-virtualbox/

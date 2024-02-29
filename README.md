@@ -26,13 +26,15 @@
 
 ### Thursday Morning
 
+- `nano` editor
+- [VirtualBox Guest Additions](./Guest-Additions.mp4)
 - [File System](https://github.com/fullstack-2024/Reading/blob/main/Linux/file-system.md)
 - [The Command Line](https://github.com/fullstack-2024/Reading/blob/main/Linux/the-command-line.md)
 - [Users and Groups](https://github.com/fullstack-2024/Reading/blob/main/Linux/users-and-groups.md)
-- [VirtualBox Guest Additions](./Guest-Additions.mp4)
 - Activities
   - [Activity 4](./activity4.md)
   - [Activity 5](./activity5.md)
+<!-- - [Linux Tutorial](https://ryanstutorials.net/linuxtutorial/) -->
 
 <!-- <video src='./Guest-Additions.mp4' width=180 > -->
 
