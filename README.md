@@ -26,6 +26,9 @@
 
 ### Thursday Morning
 
+- [File System](https://github.com/fullstack-2024/Reading/blob/main/Linux/file-system.md)
+- [The Command Line](https://github.com/fullstack-2024/Reading/blob/main/Linux/the-command-line.md)
+- [Users and Groups](https://github.com/fullstack-2024/Reading/blob/main/Linux/users-and-groups.md)
 - [VirtualBox Guest Additions](./Guest-Additions.mp4)
 - Activities
   - [Activity 4](./activity4.md)

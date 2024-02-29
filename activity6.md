@@ -39,8 +39,7 @@
    // => true
    ```
 
-4. Write a function `oldEnoughToDrink` that takes an `age` as an argument and
-   returns `true` if the person with that age is old enough to drink.
+4. Write a function `oldEnough` that takes an `age` as an argument and returns `true` if the person with that age is old enough.
 
 5. There's an easy way to figure out how long a string is by adding `.length` to
    the end of it. Try this out in the console:
@@ -63,7 +62,7 @@
 1. Write a function `bouncer` that accepts a person's name and age as arguments,
    and returns either "Go home, NAME.", or "Welcome, NAME!" (where NAME is the
    parameter that represents the person's name) depending on whether or not the
-   person is old enough to drink.
+   person is old enough.
 
 2. Write a function `max` that takes two numbers as arguments, and returns the
    larger one.
@@ -146,13 +145,7 @@
 
 #### Conditionals: `else if` & `else`
 
-1. This guy named "Joe" keeps blacking out at the bar that your function,
-   `bouncer` (from the previous module), is in charge of; thus, management has
-   decided to add him to the "blacklist" -- modify the `bouncer` function from
-   the previous section so that the person named "Joe" is rejected with an
-   appropriate message, regardless of his age.
-
-2. Write a function called `scoreToGrade` that accepts a *number* as a parameter
+1. Write a function called `scoreToGrade` that accepts a *number* as a parameter
    and returns a *string* representing a letter grade corresponding to that
    score.
 
@@ -172,7 +165,7 @@
    scoreToGrade(72); // => 'C'
    ```
 
-3. Modify the `scoreToGrade` function so that it returns `'INVALID SCORE'` if
+2. Modify the `scoreToGrade` function so that it returns `'INVALID SCORE'` if
    the score is greater than `100` or less than `0`.
 
 ## Ref
