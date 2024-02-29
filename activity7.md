@@ -177,45 +177,12 @@ Fix the syntax & style issues with the three objects below:
    4. Write a function that, when given *people* and an *age* as arguments,
       returns an array of just the people that are older than the specified age.
 
-#### Iterating over Keys & Values
 
-1. The following object has a number of key/value pairs that need to be removed:
-
-   ```js
-   const dirtyObject = {
-     _fht: 192492,
-     name: "Alyssa P. Hacker",
-     age: 26,
-     _byz: 939205,
-     _ttrs: 510852
-   }
-   function clean(obj) {
-     // ...
-   }
-   clean(dirtyObject); // => {name: "Alyssa P. Hacker", age: 26}
-   ```
-
-   The function `clean` should accept an object as an argument and return a new
-   object that has all of the key/value pairs of its parameter except for those
-   that begin with `_`.
-
-2. Write a function `removeOddValues` that takes an object as an argument and
-   returns an object with all key/value pairs removed for which the value holds
-   an *odd number*. You'll need to use the \`typeof\` operator to first check that
-   the values are numbers:
-
-   ```js
-   typeof "Hello"
-   typeof 3
-   ```
 
 #### More Practice
 
-1. Look around at various physical objects in the room, or think about
-   activities that you enjoy. How would you represent this *things* as objects?
-   Practice creating objects to represent different things. Some ideas include:
-
-   - Your favorite drink
+1. Look around at various physical objects in the room, or think about   activities that you enjoy. How would you represent this *things* as objects?
+Practice creating objects to represent different things. Some ideas include:
    - A recipe
    - Sports or hobbies
    - Your car/bike/hover-board/vehicle-like thing
